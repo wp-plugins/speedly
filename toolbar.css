@@ -1,0 +1,9 @@
+#wp-admin-bar-speedly a {
+	background: url('icon.png') no-repeat 5px !important;
+	padding-left: 30px !important;
+}
+
+#wp-admin-bar-speedly:hover a {
+	background: transparent url('icon-hover.png') no-repeat 5px !important;
+	padding-left: 30px !important;
+}
